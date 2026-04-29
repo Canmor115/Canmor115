@@ -14,10 +14,10 @@ My obsession is the full cycle — from raw data to decision — because we're b
 **Data**  
 `SQL` `NoSQL` `Pandas` `Web Scraping`
 
-**Análisis & estadística**  
+**Análisis & Statistics**  
 `Bayesian Inference` `Data Visualization` `Seaborn` `Matplotlib` `Folium`
 
-**Diseño**  
+**Design**  
  `Figma` `Gephi` `NetworkX`
 
 ---
@@ -32,6 +32,6 @@ Python Pandas Folium Seaborn Eurostat API.
 
 ---
 
-## Encuéntrame en
+## Connect with me 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-camila--andrea--moreno--ortiz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camila-andrea-moreno-ortiz/)
