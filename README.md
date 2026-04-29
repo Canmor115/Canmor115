@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Camila 👋
 
-<!--
-**Canmor115/Canmor115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Behind all the information we generate, there are secrets hiding in plain sight (most people just don't know how to read them). That's why I study **Data Science**.
+**We live in a data surplus era:** either you learn to understand, handle and extract value from data, or you drown in ignorance despite living in the information age.
+My obsession is the full cycle — from raw data to decision — because we're beings who learn from our history. Why not do it with all the information we generate?
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Skills
+
+**Lenguages**  
+`Python` `R` `Java` `Bash` `AWK`
+
+**Data**  
+`SQL` `NoSQL` `Pandas` `Web Scraping`
+
+**Análisis & estadística**  
+`Bayesian Inference` `Data Visualization` `Seaborn` `Matplotlib` `Folium`
+
+**Diseño**  
+ `Figma` `Gephi` `NetworkX`
+
+---
+
+## 🔭Projects
+
+### 📊 Self-employment in the EU (2010–2024)
+Exploratory analysis of self-employment across Europe using open Eurostat data. Interactive maps by NUTS 2 region, gender analysis, education level and correlation with unemployment rates.
+Python Pandas Folium Seaborn Eurostat API.
+
+`Python` `Pandas` `Folium` `Seaborn` `Eurostat API`
+
+---
+
+## Encuéntrame en
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-camila--andrea--moreno--ortiz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camila-andrea-moreno-ortiz/)
