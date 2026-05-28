@@ -34,4 +34,4 @@ Python Pandas Folium Seaborn Eurostat API.
 
 ## Connect with me 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn Camila--Moreno-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camila-andrea-moreno-ortiz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila%20Moreno-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camila-andrea-moreno-ortiz/)
