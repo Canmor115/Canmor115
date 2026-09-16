@@ -40,6 +40,11 @@ Analysis of 30 years of IMF fiscal data across 182 countries. Built three custom
 
 `Python` `Pandas` `Tableau` `Flourish` `IMF API`
 
+### 🚗 Risk Segmentation & Claim Prediction in Motor Insurance
+Unsupervised clustering (K-means, K-medians, PAM, DBSCAN) and supervised claim prediction on a real motor insurance portfolio, with PCA/SVD dimensionality reduction. A pruned decision tree, trained independently, converges on the same risk drivers as the unsupervised clusters. Key finding: policies flagged as "noise" by DBSCAN show the highest claim rate in the entire portfolio (32.4%).
+
+`R` `K-means` `DBSCAN` `rpart` `Random Forest` `PCA/SVD`
+
 ---
 
 ## Connect with me 🤝
